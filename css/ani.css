@@ -23,7 +23,7 @@ body {
   #svg {
     display: inline-block;
     vertical-align: middle;
-    fill: #0057B8;
+    fill: #186dcc;
   }
   #svg path:nth-child(1) {
     -webkit-animation: pweek 1.8s linear infinite;
